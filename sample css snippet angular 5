@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+header{
+    background: black;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+.card-title{
+    background: tomato;
+    color: white;
+    text-align: left;
+    padding: 15px;
+    margin: none;
+
+}
+
+.modal-header{
+    
+        background: tomato;
+        color: white;
+        text-align: left;
+        padding: 15px;
+        margin: none;
+        
+    
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 10px;
+}
+
+*{
+    font-family: Segoe UI Light, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.margin{
+    margin: 5px;
+}
